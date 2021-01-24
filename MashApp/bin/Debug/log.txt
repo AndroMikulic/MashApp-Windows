@@ -1,0 +1,93 @@
+18.3.2019. 19:25:16 - Log created
+18.3.2019. 19:25:16 - Entering first time setup
+18.3.2019. 19:25:41 - Selected music source is: D:\My Documents\Music\EDM
+18.3.2019. 19:25:41 - Initializing the app
+18.3.2019. 19:25:41 - Entering post connection setup
+18.3.2019. 19:25:46 - Setting up TCP Listener
+18.3.2019. 19:25:46 - Starting UDP broadcaster
+18.3.2019. 19:25:46 - Broadcasting message: MAIP:192.168.1.12
+18.3.2019. 19:25:46 - Listening on 0.0.0.0:1337
+18.3.2019. 19:25:46 - Playing song "W&W & Blasterjaxx - Bowser (Original Mix).mp3" from storage
+18.3.2019. 19:26:06 - Loading startup files
+18.3.2019. 19:26:06 - Entering YouTube mode
+18.3.2019. 19:26:06 - Initializing the app
+18.3.2019. 19:26:06 - Entering post connection setup
+18.3.2019. 19:26:11 - Setting up TCP Listener
+18.3.2019. 19:26:11 - Starting UDP broadcaster
+18.3.2019. 19:26:11 - Broadcasting message: MAIP:192.168.1.12
+18.3.2019. 19:26:11 - Listening on 0.0.0.0:1337
+18.3.2019. 19:26:11 - Playing "Alan Walker - Alone" from Youtube
+18.3.2019. 19:47:47 - Loading startup files
+18.3.2019. 19:47:47 - Entering YouTube mode
+18.3.2019. 19:47:47 - Initializing the app
+18.3.2019. 19:47:47 - Entering post connection setup
+18.3.2019. 19:47:52 - Setting up TCP Listener
+18.3.2019. 19:47:52 - Starting UDP broadcaster
+18.3.2019. 19:47:52 - Broadcasting message: MAIP:192.168.1.12
+18.3.2019. 19:47:52 - Listening on 0.0.0.0:1337
+18.3.2019. 19:47:52 - Playing "Alesso - If It Wasn't For You (Chris Davies Remix)" from Youtube
+18.3.2019. 19:53:14 - Loading startup files
+18.3.2019. 19:53:14 - Entering YouTube mode
+18.3.2019. 19:53:14 - Initializing the app
+18.3.2019. 19:53:14 - Entering post connection setup
+18.3.2019. 19:53:19 - Setting up TCP Listener
+18.3.2019. 19:53:19 - Starting UDP broadcaster
+18.3.2019. 19:53:19 - Broadcasting message: MAIP:192.168.1.12
+18.3.2019. 19:53:19 - Listening on 0.0.0.0:1337
+18.3.2019. 19:53:19 - Playing "Alesso - Cool ft. Roy English" from Youtube
+19.3.2019. 15:02:59 - Loading startup files
+19.3.2019. 15:02:59 - Entering YouTube mode
+19.3.2019. 15:02:59 - Initializing the app
+19.3.2019. 15:02:59 - Entering post connection setup
+19.3.2019. 15:03:04 - Setting up TCP Listener
+19.3.2019. 15:03:04 - Starting UDP broadcaster
+19.3.2019. 15:03:04 - Broadcasting message: MAIP:192.168.1.12
+19.3.2019. 15:03:04 - Listening on 0.0.0.0:1337
+19.3.2019. 15:03:04 - Playing "Alesso - Tear The Roof Up" from Youtube
+19.3.2019. 15:11:20 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:11:20 - Received a LIST_REQUEST
+19.3.2019. 15:12:16 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:12:16 - Received a LIST_REQUEST
+19.3.2019. 15:12:30 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:12:30 - Received a SONG_REQUEST for song: Autoerotique & Hunter Siegel - OTF
+19.3.2019. 15:12:39 - Playing "Autoerotique & Hunter Siegel - OTF" from Youtube
+19.3.2019. 15:12:46 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:12:46 - Received a SONG_REQUEST for song: Alan Walker - Alone
+19.3.2019. 15:12:47 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:12:47 - Received a SONG_REQUEST for song: Alan Walker - The Spectre
+19.3.2019. 15:13:07 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:13:07 - Received a SONG_REQUEST for song: Afrojack - Ten Feet Tall ft. Wrabel
+19.3.2019. 15:13:08 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:13:08 - Received a SONG_REQUEST for song: Afrojack - Ten Feet Tall ft. Wrabel
+19.3.2019. 15:13:10 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:13:10 - Received a SONG_REQUEST for song: Afrojack - Ten Feet Tall ft. Wrabel
+19.3.2019. 15:13:41 - Playing "Alan Walker - Alone" from Youtube
+19.3.2019. 15:15:09 - Loading startup files
+19.3.2019. 15:15:09 - Entering YouTube mode
+19.3.2019. 15:15:09 - Initializing the app
+19.3.2019. 15:15:09 - Entering post connection setup
+19.3.2019. 15:15:14 - Setting up TCP Listener
+19.3.2019. 15:15:14 - Starting UDP broadcaster
+19.3.2019. 15:15:14 - Broadcasting message: MAIP:192.168.1.12
+19.3.2019. 15:15:14 - Listening on 0.0.0.0:1337
+19.3.2019. 15:15:14 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:15:14 - Received a LIST_REQUEST
+19.3.2019. 15:15:14 - Playing "Armin van Buuren feat. Kensington - Heading Up High" from Youtube
+19.3.2019. 15:17:40 - Loading startup files
+19.3.2019. 15:17:40 - Entering YouTube mode
+19.3.2019. 15:17:40 - Initializing the app
+19.3.2019. 15:17:40 - Entering post connection setup
+19.3.2019. 15:17:45 - Setting up TCP Listener
+19.3.2019. 15:17:45 - Starting UDP broadcaster
+19.3.2019. 15:17:45 - Broadcasting message: MAIP:192.168.1.12
+19.3.2019. 15:17:45 - Listening on 0.0.0.0:1337
+19.3.2019. 15:17:45 - Playing "Project X - Yeah Yeah Yeahs - Heads Will Roll ( A-Track Remix )" from Youtube
+19.3.2019. 15:17:45 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:17:45 - Received a LIST_REQUEST
+19.3.2019. 15:19:28 - New connection, IP not logged for privacy reasons
+19.3.2019. 15:19:28 - Received a LIST_REQUEST
+19.3.2019. 15:20:23 - Playing "Alesso - Cool ft. Roy English" from Youtube
+19.3.2019. 15:22:41 - Loading startup files
+19.3.2019. 15:22:41 - Entering YouTube mode
+19.3.2019. 15:22:41 - Initializing the app
+19.3.2019. 15:22:41 - Entering post connection setup

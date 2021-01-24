@@ -1,0 +1,16 @@
+﻿<Window x:Class="MashApp.ChangeName"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MashApp"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="ChangeName" Height="240" Width="450" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Disabled" HorizontalContentAlignment="Center" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF202020">
+        <Label x:Name="introText" Content="New name:" Margin="0,30,0,0" RenderTransformOrigin="0.5,0.5" FontFamily="Dosis" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="0" UseLayoutRounding="False" Foreground="#FFE6E6E6" Height="40" VerticalAlignment="Top"/>
+        <TextBox x:Name="barName" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="40" Margin="0,80,0,0" TextWrapping="Wrap" Text="Bar Name" Width="256" FontFamily="Dosis" Visibility="Visible"  BorderBrush="Black" Foreground="#FF202020" Background="#FFFBC02D" FontSize="18" Opacity="1" VerticalAlignment="Top" UseLayoutRounding="False"/>
+        <Button x:Name="nameEntered" Content="Done" Margin="0,140,0,0" VerticalAlignment="Top" Width="75" FontFamily="Dosis" Height="26" BorderBrush="Black" Foreground="#FF202020" Background="#FFFBC02D" FontSize="18" Opacity="1" Visibility="Visible"/>
+        <Label x:Name="introText_Copy" Content="Note: changing the name will restart the application and reset the music queue" Margin="0,0,0,4" RenderTransformOrigin="0.5,0.5" FontFamily="Dosis" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="0" UseLayoutRounding="False" Foreground="#FFE6E6E6" Height="20" VerticalAlignment="Bottom" Width="440" FontSize="14"/>
+    </Grid>
+</Window>

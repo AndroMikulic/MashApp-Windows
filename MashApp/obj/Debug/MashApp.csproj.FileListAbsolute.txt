@@ -1,0 +1,68 @@
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp.csprojResolveAssemblyReference.cache
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MainWindow.g.cs
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\App.g.cs
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp_MarkupCompile.cache
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp_MarkupCompile.lref
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\bin\Debug\MashApp.exe.config
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\bin\Debug\MashApp.exe
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\bin\Debug\MashApp.pdb
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\bin\Debug\FontAwesome.WPF.dll
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\bin\Debug\FontAwesome.WPF.xml
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MainWindow.baml
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp.g.resources
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp.Properties.Resources.resources
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp.csproj.GenerateResource.Cache
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp.csproj.CoreCompileInputs.cache
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp.exe
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\obj\Debug\MashApp.pdb
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\My Documents\Programiranje\Visual Studio\MashappBar\MashApp\MashApp\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp.csprojResolveAssemblyReference.cache
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MainWindow.g.cs
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\App.g.cs
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp_MarkupCompile.cache
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp_MarkupCompile.lref
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp.exe
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp.pdb
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\bin\Debug\MashApp.exe.config
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\bin\Debug\MashApp.exe
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\bin\Debug\MashApp.pdb
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MainWindow.baml
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp.g.resources
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp.Properties.Resources.resources
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp.csproj.GenerateResource.Cache
+C:\Users\Andro\Documents\MashappBar\MashApp\MashApp\obj\Debug\MashApp.csproj.CoreCompileInputs.cache
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\MashApp.exe.config
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\MashApp.exe.manifest
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\MashApp.application
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\MashApp.exe
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\MashApp.pdb
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\FontAwesome.WPF.dll
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\FontAwesome.WPF.xml
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.csprojResolveAssemblyReference.cache
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\Interop.SHDocVw.dll
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.csproj.ResolveComReference.cache
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\ChangeName.g.cs
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MainWindow.g.cs
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\ChangeList.g.cs
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\App.g.cs
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp_MarkupCompile.cache
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp_MarkupCompile.lref
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\ChangeName.baml
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MainWindow.baml
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\ChangeList.baml
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.g.resources
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.Properties.Resources.resources
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.csproj.GenerateResource.cache
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.csproj.CoreCompileInputs.cache
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.exe.manifest
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.application
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.csproj.CopyComplete
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.exe
+D:\My Documents\Programiranje\Visual Studio\MashApp\MashApp\obj\Debug\MashApp.pdb

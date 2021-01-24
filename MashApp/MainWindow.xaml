@@ -1,0 +1,46 @@
+﻿<Window x:Class="MashApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MashApp"
+        mc:Ignorable="d"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        Title="MashApp Client" Height="450.4" Width="800" Background="#FF202020" MinWidth="800" MinHeight="450" Icon="MashAppIcon.ico" WindowStartupLocation="CenterScreen" >
+    <Grid x:Name="mainGrid" Margin="0" Background="#202020">
+        <Grid x:Name="firstTimeGrid" Visibility="Collapsed">
+            <Label x:Name="introText" Content="Hello!" Margin="0,184,0,180" RenderTransformOrigin="0.5,0.5" FontFamily="Dosis" FontSize="22" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="0" UseLayoutRounding="False" Foreground="#FFE6E6E6" Opacity="0"/>
+            <TextBox x:Name="placeName" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" Height="40" Margin="0,243,0,137.8" TextWrapping="Wrap" Text="My Place" VerticalAlignment="Center" Width="256" FontFamily="Dosis" Visibility="Collapsed"  BorderBrush="Black" Foreground="#FF202020" Background="#FFFBC02D" FontSize="18" Opacity="0"/>
+            <Button x:Name="nameEntered" Content="Done" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Center" Width="75" FontFamily="Dosis" Height="26" BorderBrush="Black" Foreground="#FF202020" Background="#FFFBC02D" FontSize="18" Opacity="0" Visibility="Collapsed"/>
+            <Image x:Name="selectYoutube" RenderOptions.BitmapScalingMode="HighQuality" Height="64" Margin="0,150,104,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="64" Source="youtube.png" RenderTransformOrigin="0.5,0.5" Visibility="Collapsed" Opacity="0"/>
+            <Image x:Name="selectFolder" RenderOptions.BitmapScalingMode="HighQuality" Height="64" Margin="0,150,-100,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="64" Source="folder.png" RenderTransformOrigin="0.5,0.5" Visibility="Collapsed" Opacity="0"/>
+        </Grid>
+        <Grid x:Name="startupGrid" Visibility="Collapsed">
+            <Label x:Name="connectionLabel" Content="Connecting" Margin="0,-122,0,0" RenderTransformOrigin="0.5,0.5" Height="50" FontFamily="Dosis" FontSize="20" Width="300" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="0" UseLayoutRounding="False" Foreground="#FFE6E6E6"/>
+            <fa:ImageAwesome x:Name="loadingBar" Icon="Refresh" Spin="True" Height="64" Width="64" Foreground="#FFE6E6E6" />
+            <Image x:Name="logoHolder" RenderOptions.BitmapScalingMode="HighQuality" Height="128" Margin="0" Width="128" RenderTransformOrigin="0.5,0.5" Source="logo.png" Opacity="0"/>
+        </Grid>
+        <Grid x:Name="dataGrid" Visibility="Collapsed" Margin="4,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="64"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="404*"/>
+                <ColumnDefinition Width="389*"/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="TopLeftLogo" MouseDown="OpenWebsite" Margin="10,5,0,5" Source="logo.png" HorizontalAlignment="Left" Width="54" RenderOptions.BitmapScalingMode="HighQuality"/>
+            <ListBox x:Name="inQueue" Margin="4,0,4,50" Grid.Row="1" Background="#FF313131" Foreground="White" FontFamily="Dosis" BorderBrush="{x:Null}"/>
+            <ListBox x:Name="allSongs" Margin="4,0,4,50" Grid.Column="1" Grid.Row="1" Foreground="White" Background="#FF313131" FontFamily="Dosis" BorderBrush="{x:Null}"/>
+            <MediaElement x:Name="mediaPlayer" HorizontalAlignment="Left" Height="26" Margin="12,336.4,0,0" Grid.Row="1" VerticalAlignment="Top" Width="382" Visibility="Hidden"/>
+            <WebBrowser Visibility="Collapsed" x:Name="VideoPlayer" Margin="4,0,4,50" Grid.Row="1"/>
+            <TextBlock HorizontalAlignment="Right" Margin="0,0,4,4" TextWrapping="Wrap" VerticalAlignment="Bottom" FontFamily="Dosis" FontSize="20" Foreground="White" Text="Queue" RenderTransformOrigin="0.491,0.53" Height="26"/>
+            <TextBlock Margin="0,0,4,4" TextWrapping="Wrap" VerticalAlignment="Bottom" FontFamily="Dosis" FontSize="20" Foreground="White" Text="Available Songs" RenderTransformOrigin="0.491,0.53" Grid.Column="1" HorizontalAlignment="Right" Width="120" Height="26"/>
+            <Button x:Name="changeName" Content="Change Name" Grid.Column="1" Margin="0,0,4,10" Grid.Row="1" Width="80" Height="32" FontFamily="Dosis" VerticalAlignment="Bottom" HorizontalAlignment="Right" Foreground="#FF202020" Background="#FFFBC02D" BorderBrush="{x:Null}"/>
+            <TextBlock x:Name="currentlyPlaying" HorizontalAlignment="Left" Margin="4,0,0,10" Grid.Row="1" TextWrapping="Wrap" Text="Currently Playing" VerticalAlignment="Bottom" Height="32" Width="390" FontFamily="Dosis" Foreground="White"/>
+            <Button x:Name="changeList" Content="Change List" Grid.Column="1" Margin="0,0,94,10" Grid.Row="1" Width="80" Height="32" FontFamily="Dosis" VerticalAlignment="Bottom" HorizontalAlignment="Right" Foreground="#FF202020" Background="#FFFBC02D" BorderBrush="{x:Null}"/>
+            <Button x:Name="showVideo" Visibility="Collapsed" Content="Show Video" Grid.Column="1" Margin="4,0,0,10" Grid.Row="1" Height="32" FontFamily="Dosis" VerticalAlignment="Bottom" Foreground="#FF202020" Background="#FFFBC02D" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="80" Click="showVideo_Click"/>
+        </Grid>
+    </Grid>
+</Window>
+
